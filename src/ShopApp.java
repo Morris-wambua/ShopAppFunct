@@ -8,7 +8,7 @@ public class ShopApp {
         Scanner scs=new Scanner(System.in);
         System.out.println("Enter your name: ");
         String studentName=scs.nextLine();
-        System.out.println(line+"\nWELCOME "+studentName+"\n"+line);
+        System.out.println(line+"\n HELLO! WELCOME "+studentName+"\n"+line);
 
         //simulate the product
         Product[] ShopProductCart = simulateProduct();
