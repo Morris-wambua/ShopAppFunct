@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class ShopApp {
+    //this comment was added
     public static String line="==========================================================";
     public static void main(String[] args) {
         //capture student information
